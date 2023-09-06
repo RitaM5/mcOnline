@@ -1,0 +1,38 @@
+[
+    {
+        "id": "a234abc1",
+        "icon": "https://img.icons8.com/dusk/80/pot-player.png",
+        "icon_name": "Pot Player",
+        "ip": "potplayer.net"
+    },
+    {
+        "id": "a234abc2",
+        "icon": "https://img.icons8.com/cotton/80/vox-player.png",
+        "icon_name": "Vox Player",
+        "ip": "voxplayer.net"
+    },
+    {
+        "id": "a234abc3",
+        "icon": "https://img.icons8.com/dusk/80/quicktime-player.png",
+        "icon_name": "Quicktime",
+        "ip": "quicktime.net"
+    },
+    {
+        "id": "a234abc4",
+        "icon": "https://img.icons8.com/office/80/spotify.png",
+        "icon_name": "Spotify",
+        "ip": "spotify.net"
+    },
+    {
+        "id": "a234abc5",
+        "icon": "https://img.icons8.com/nolan/80/kodi.png",
+        "icon_name": "Kodi",
+        "ip": "kodi.net"
+    },
+    {
+        "id": "a234abc6",
+        "icon": "https://img.icons8.com/fluency/80/forward-10.png",
+        "icon_name": "Forward",
+        "ip": "forward.net"
+    }
+]
