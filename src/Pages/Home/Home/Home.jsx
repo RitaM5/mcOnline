@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import IconsData from './IconsData';
+import ServerSec from '../ServerSec/ServerSec';
+import Comment from '../ServerComment/Comment';
 
 const Home = () => {
     const [data, setData] = useState([]);
@@ -48,6 +50,9 @@ const Home = () => {
                     </div>
                 </div>
             </section >
+            {/* 2nd section */}
+            <ServerSec></ServerSec>
+            <Comment></Comment>
         </div >
     );
 };

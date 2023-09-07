@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.icons8.com/color/25/discord--v2.png",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non ante ipsum. Nam quis mi id risus auctor maximus. Fusce quis justo eu mi vulputate porttitor.",
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "image": "https://img.icons8.com/color/25/discord--v2.png",
+      "comment": "Proin hendrerit, purus vel malesuada auctor, ipsum libero commodo orci, sit amet tincidunt augue urna non leo. In facilisis tincidunt lectus non tincidunt.",
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "image": "https://img.icons8.com/color/25/discord--v2.png",
+      "comment": "Vivamus ac luctus tellus. Ut laoreet odio eu risus bibendum, ut fringilla nisi euismod. Duis id odio ac libero consectetur euismod a in nisi.Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.",
+      "name": "Charlie"
+    },
+    {
+      "id": 4,
+      "image": "https://img.icons8.com/color/25/discord--v2.png",
+      "comment": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed euismod vehicula enim in lacinia. Sed nec sapien id odio blandit ultrices.",
+      "name": "David"
+    },
+    {
+      "id": 5,
+      "image": "https://img.icons8.com/color/25/discord--v2.png",
+      "comment": "Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.",
+      "name": "Eva"
+    },
+    {
+      "id": 6,
+      "image": "https://img.icons8.com/color/25/discord--v2.png",
+      "comment": "Maecenas consectetur mi non quam vehicula euismod. Etiam feugiat sem ut malesuada. Sed facilisis volutpat tristique. Aliquam at sapien id arcu congue pellentesque.",
+      "name": "Frank"
+    }
+  ]
+  
