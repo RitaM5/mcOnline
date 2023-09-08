@@ -5,10 +5,10 @@
 .my-container{
     @apply  mx-auto container 
   }
-  body{
+  /* body{
     background-color: rgb(32, 32, 32);
     min-height: auto;
-  }
+  } */
   .custom-scrollbar-hide::-webkit-scrollbar {
     display: none;
 }
