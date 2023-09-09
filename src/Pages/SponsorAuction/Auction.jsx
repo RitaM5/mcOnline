@@ -11,8 +11,8 @@ const Auction = () => {
         <div className='bg-white my-container font-poppins px-3'>
             <h1 className=' text-3xl pt-4'>Sponsored Server Auction</h1>
             <p className='border-b-2 mt-5 border-gray-400'></p>
-            <div className=' space-y-2 mt-16'>
-                <p>
+            <div className=' space-y-2 mt-10'>
+                <p className='text-lg'>
                     This page contains the last year of auctions with theis top 10 bids, For archived purpose, server titles represent the title of the server at the time it was added to the auction.
                 </p>
                 <h2 className='text-[22px] pt-5'>September 2023</h2>
@@ -42,13 +42,6 @@ const Auction = () => {
                                 </tr>
                             ))
                         }
-
-                        {/* <tr>
-                <td className="border border-slate-300 ...">2</td>
-                <td className="border border-slate-300 ...">Server 2</td>
-                <td className="border border-slate-300 ...">$80</td>
-                <td className="border border-slate-300 ...">2023-09-08</td>
-            </tr> */}
                     </tbody>
                 </table>
             </div>

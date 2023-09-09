@@ -5,6 +5,8 @@ import './index.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Home from './Pages/Home/Home/Home'
 import Auction from './Pages/SponsorAuction/Auction'
+import Upload from './Pages/Upload/Upload'
+import Moderation from './Pages/Moderation/Moderation'
 
 const router = createBrowserRouter([
   {
@@ -18,6 +20,14 @@ const router = createBrowserRouter([
       {
         path: '/auction',
         element: <Auction/>
+      },
+      {
+        path: '/upload',
+        element: <Upload/>
+      },
+      {
+        path: '/moderation',
+        element: <Moderation/>
       }
     ],
   },

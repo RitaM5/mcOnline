@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import IconsData from './IconsData';
 import ServerSec from '../ServerSec/ServerSec';
 import Comment from '../ServerComment/Comment';
+import PlayerCount from '../PlayerCount/PlayerCount';
+import Modal from './Modal';
 
 const Home = () => {
     const [data, setData] = useState([]);
@@ -52,7 +54,9 @@ const Home = () => {
             </section >
             {/* 2nd section */}
             <ServerSec></ServerSec>
+            <Modal></Modal>
             <Comment></Comment>
+            <PlayerCount></PlayerCount>
         </div >
     );
 };

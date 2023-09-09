@@ -1,39 +1,38 @@
 [
-    {
+  {
       "id": 1,
       "image": "https://img.icons8.com/color/25/discord--v2.png",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non ante ipsum. Nam quis mi id risus auctor maximus. Fusce quis justo eu mi vulputate porttitor.",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor, purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor.Proin hendrerit, purus vel malesuada auctor.",
       "name": "Alice"
-    },
-    {
+  },
+  {
       "id": 2,
       "image": "https://img.icons8.com/color/25/discord--v2.png",
-      "comment": "Proin hendrerit, purus vel malesuada auctor, ipsum libero commodo orci, sit amet tincidunt augue urna non leo. In facilisis tincidunt lectus non tincidunt.",
+      "comment": "Proin hendrerit., purus vel malesuada auctor.purus vel malesuada auctor.",
       "name": "Bob"
-    },
-    {
+  },
+  {
       "id": 3,
       "image": "https://img.icons8.com/color/25/discord--v2.png",
-      "comment": "Vivamus ac luctus tellus. Ut laoreet odio eu risus bibendum, ut fringilla nisi euismod. Duis id odio ac libero consectetur euismod a in nisi.Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.",
+      "comment": "Vivamus ac luctus tellus.Ut laoreet odio eu risus bibendum.purus vel malesuada auctor.Proin hendrerit,malesuada auctor.purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor. purus vel malesuada auctor, purus vel malesuada auctor.Proin hendrerit, purus vel malesuada auctor.Proin hendrerit, purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor.",
       "name": "Charlie"
-    },
-    {
+  },
+  {
       "id": 4,
       "image": "https://img.icons8.com/color/25/discord--v2.png",
-      "comment": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed euismod vehicula enim in lacinia. Sed nec sapien id odio blandit ultrices.",
+      "comment": "Pellentesque habitant morbi tristique senectus et netus.purus vel auctor.",
       "name": "David"
-    },
-    {
+  },
+  {
       "id": 5,
       "image": "https://img.icons8.com/color/25/discord--v2.png",
-      "comment": "Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.Aenean eleifend, ligula ut sagittis bibendum, justo velit tempor dui, vel vehicula odio tortor id libero. Sed tincidunt erat vel tristique.",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor, purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor.Proin hendrerit,purus vel malesuada auctor.Proin hendrerit, purus vel malesuada auctor.",
       "name": "Eva"
-    },
-    {
+  },
+  {
       "id": 6,
       "image": "https://img.icons8.com/color/25/discord--v2.png",
-      "comment": "Maecenas consectetur mi non quam vehicula euismod. Etiam feugiat sem ut malesuada. Sed facilisis volutpat tristique. Aliquam at sapien id arcu congue pellentesque.",
+      "comment": "Maecenas consectetur mi non quam vehicula euismod.purus vel malesuada auctor.Proin hendrerit, purus vel malesuada auctor.Proin hendrerit,ligula ut sagittis bibendum.Proin hendrerit,purus vel malesuada auctor.",
       "name": "Frank"
-    }
-  ]
-  
+  }
+]
