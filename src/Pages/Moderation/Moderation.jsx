@@ -14,7 +14,7 @@ const Moderation = () => {
         setSelectedOption(e.target.value);
     };
     return (
-        <div className='bg-white my-container my-12'>
+        <div className='bg-white my-container my-32'>
             <div className='py-8 px-6'>
                 <table className="border-collapse border w-full ...">
                     <thead className='bg-green-500 text-white font-semibold text-[26px]'>

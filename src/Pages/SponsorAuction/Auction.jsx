@@ -8,7 +8,7 @@ const Auction = () => {
             .then((data) => setAuctionData(data))
     }, []);
     return (
-        <div className='bg-white my-container font-poppins px-3'>
+        <div className='bg-white my-container my-32 font-poppins px-3'>
             <h1 className=' text-3xl pt-4'>Sponsored Server Auction</h1>
             <p className='border-b-2 mt-5 border-gray-400'></p>
             <div className=' space-y-2 mt-10'>

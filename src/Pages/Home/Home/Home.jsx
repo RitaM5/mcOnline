@@ -23,7 +23,7 @@ const Home = () => {
         }
     }
     return (
-        <div className='my-container font-poppins'>
+        <div className='my-container my-20 font-poppins'>
             <section className=' grid lg:grid-cols-2 grid-cols-1 items-center justify-items-center bg-black'>
                 <div className='bg-black text-white text-center w-full py-20'>
                     <img src={blog?.icon} className='w-[150px] mx-auto' alt="" srcset="" />
@@ -33,7 +33,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className='w-full bg-gray-900 text-white text-center py-20 space-y-10'>
-                    <h1 className='text-gray-400 relative bottom-14 text-lg font-semibold'>Draft Vector Sketches Exploration</h1>
+                    <h1 className='text-gray-400 relative bottom-14 text-lg font-semibold my-3'>Draft Vector Sketches Exploration</h1>
                     <div className='grid grid-cols-3 items-center gap-4 justify-center justify-items-center'>
                         {
                             data.map(icons => <IconsData addIconsMark={addIconsMark} icons={icons} key={icons?.id}></IconsData>)

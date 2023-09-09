@@ -24,7 +24,7 @@ const Upload = () => {
     };
 
     return (
-        <div className='bg-gray-300 my-container font-poppins px-3 py-2'>
+        <div className='bg-gray-300 my-container my-32 font-poppins px-3 py-2'>
             <h1 className='text-3xl pt-2'>Create New</h1>
             <div className='bg-white grid grid-cols-1 gap-4 md:flex md:gap-14 shadow-lg px-2 py-3 my-6 rounded-md'>
                 <div className='grid grid-cols-1 justify-center items-center'>
